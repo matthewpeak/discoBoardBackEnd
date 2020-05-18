@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  song_id: 
+  note1: false
+  note2: false
+  note3: false
+  note4: false
+  note5: false
+  note6: false
+  note7: false
+  note8: false
+  note9: false
+  note10: false
+  note11: false
+  note12: false
+
+two:
+  song_id: 
+  note1: false
+  note2: false
+  note3: false
+  note4: false
+  note5: false
+  note6: false
+  note7: false
+  note8: false
+  note9: false
+  note10: false
+  note11: false
+  note12: false
