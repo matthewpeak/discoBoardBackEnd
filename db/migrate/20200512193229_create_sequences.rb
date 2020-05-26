@@ -12,6 +12,7 @@ class CreateSequences < ActiveRecord::Migration[6.0]
       t.boolean :note6
       t.boolean :note7
       t.boolean :note8
+      t.string  :synth
      
 
       t.timestamps
